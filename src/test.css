@@ -1,0 +1,47 @@
+/* body{
+   background-color: lightgray; 
+   border: 2px solid gray;
+   border-radius: 2px;
+}  */
+
+body{
+    background-color: black;
+}
+
+#wrapper{
+    text-align: center;
+    background-color: white;
+    
+    
+}
+
+
+h1{
+    text-align: right;
+    color: white;
+}
+#r1 {
+    overflow:hidden;
+    padding: 0%;
+    margin: 0%;
+}
+#p{
+    color: white;
+    
+    text-align:center;
+    width: 20%;
+    float: left;
+    padding: 10px;
+    background-color: gray;
+    border: 1px solid black;
+    margin: 0%;
+}
+#py{
+    text-align:center;
+    width: 20%;
+    float: left;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0%;
+    background-color:  yellow;
+}
